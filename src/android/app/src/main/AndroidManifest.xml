@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.aaronhaddad.pass.vax_pass">
    <application
-        android:label="vax_pass"
+        android:label="Pass vaccinal"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
