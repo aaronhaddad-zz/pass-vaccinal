@@ -16,6 +16,12 @@ dependencies:
   
   cupertino_icons: ^1.0.2
 
+  # PDF viewer
+  syncfusion_flutter_pdfviewer: ^19.4.40-beta
+
+  # Using this plugin to store the file locations
+  shared_preferences: ^2.0.11
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
